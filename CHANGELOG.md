@@ -1,5 +1,11 @@
 # incur
 
+## 0.6.1
+
+### Patch Changes
+
+- f617e17: Require a patched TOON version to prevent prototype pollution when decoding untrusted input.
+
 ## 0.6.0
 
 ### Minor Changes
